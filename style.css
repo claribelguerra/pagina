@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 50px;
+}
+h3{
+    color: rgb(14, 65, 14);
+    font-family:  'Libre Baskerville', serif;
+
+}
+p{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(40, 90, 61);
+}
+div{
+    color: darkblue;
+    font-family: cursive;
+    
+}
+h2{
+    color: rgb(39, 153, 10);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ol{
+    color: rgb(65, 1, 38);
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bordes-redondeados {
+    border-radius: 150px;
+
+}
+    
